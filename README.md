@@ -1,6 +1,6 @@
 # typesafe_register
 
-批量注册 typesafe.ai 控制台账号并自动创建 API Key 的脚本，单线程下6秒一个，多线程下速度可0.12秒一个。
+批量注册 typesafe.ai 控制台账号并自动创建 API Key 的脚本，单线程下速度约6秒一个，多线程下速度约0.12秒一个。
 
 
 
